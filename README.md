@@ -22,5 +22,5 @@ My name is Alejandra, I´m Developer in process...
 
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Giróvaga.
+- ⚡ Fun fact: Giróvaga.🍃🌍🍃🍀
 
