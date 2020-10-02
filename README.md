@@ -18,7 +18,7 @@ My name is Alejandra, I´m Developer in process...
 ----
 
 ![Alejandra' Stats](https://github-readme-stats.vercel.app/api?username=arkanabytes&show_icons=true&theme=prussian)
-![Alejandra' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkanabytes&layout=compact)
+![Alejandra' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact)
 
 
 - 😄 Pronouns: she/her
