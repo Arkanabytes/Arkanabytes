@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 thank you for visiting my profile!
 
 My name is Alejandra, I´m Developer in process...
 ----
