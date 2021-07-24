@@ -1,6 +1,6 @@
 ### Hi there 👋 thank you for visiting my profile!
 
-My name is Alejandra, I´m Developer in process...
+My name is Alejandra,
 ----
 
 - 🔭 I’m currently working on Projects startup
