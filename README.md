@@ -24,5 +24,6 @@ My name is Alejandra,
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Giróvaga.🍃🌍🍃🍀
 
+![Snake animation](https://github.com/arkanabytes/arkanabytes/blob/output/github-contribution-grid-snake.svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/{Arkanabytes}/count.svg)
