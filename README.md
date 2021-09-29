@@ -11,8 +11,7 @@ My name is Alejandra,
 - 📫 How to reach me: 
 
 <p align='center'>
-  <a href=""><img src=""></a>&nbsp;&nbsp;
-  <a href=""><img src=""></a>&nbsp;&nbsp;
+
 </p>
 
 ----
