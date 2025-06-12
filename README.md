@@ -12,18 +12,36 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 
 ----
 
-🎓 Education
-🧠 Full Stack Java Developer – Generation Chile
-May 2025 – Aug 2025
-Accelerated training in full stack development with a focus on practical, team-based software projects.
-Key technologies and tools:
+🎓 **Education**
 
-Frontend: JavaScript, Java, HTML5, CSS3, React, Bootstrap, Material UI, Node.js (NPM)
+🧠 **Full Stack Java Developer – Generation Chile**  
+_May 2025 – Aug 2025_  
+Accelerated training in full stack development with a focus on practical, team-based software projects.  
+**Key technologies and tools:**
 
-Backend: Java, Spring Boot, JPA, REST APIs, SQL (MySQL), JUnit
+- **Frontend**: JavaScript, Java, HTML5, CSS3, React, Bootstrap, Material UI, Node.js (NPM)  
+- **Backend**: Java, Spring Boot, JPA, REST APIs, SQL (MySQL), JUnit  
+- **Tools**: Git, GitHub, Postman, Figma, MySQL Workbench, Bash  
+- **Methodologies**: Agile (SCRUM), Jira  
 
-Tools: Git, GitHub, Postman, Figma, MySQL Workbench, Bash
+🎓 **BSc in Computer Engineering – Universidad Tecnológica de Chile, INACAP**  
+_Mar 2025 – Dec 2028_  
+Focus on systems design, secure coding, data structures, and software architecture.
 
+🎓 **Computer Science – 42 Silicon Valley**  
+_2018 – 2019_  
+Project-based learning in low-level programming, C language, and UNIX system development.  
+- Piscine Program: 4-week full-time coding challenge with algorithms, lists, and UNIX environment.
+
+🎓 **Full Stack Web Development – freeCodeCamp**  
+_2021_  
+Built full-stack applications using React, Node.js, MongoDB, and Express.js.
+
+🎓 **Electronics & Digital Systems – Institut Industrial Benjamin Franklin**  
+_2005 – 2006_  
+Practical training in electrical circuits, digital electronics, and hardware fundamentals.
+
+---
 Methodologies: Agile (SCRUM), Jira
 
 ![Alejandra' Stats](https://github-readme-stats.vercel.app/api?username=arkanabytes&show_icons=true&theme=prussian)
