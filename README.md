@@ -12,6 +12,20 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 
 ----
 
+🎓 Education
+🧠 Full Stack Java Developer – Generation Chile
+May 2025 – Aug 2025
+Accelerated training in full stack development with a focus on practical, team-based software projects.
+Key technologies and tools:
+
+Frontend: JavaScript, Java, HTML5, CSS3, React, Bootstrap, Material UI, Node.js (NPM)
+
+Backend: Java, Spring Boot, JPA, REST APIs, SQL (MySQL), JUnit
+
+Tools: Git, GitHub, Postman, Figma, MySQL Workbench, Bash
+
+Methodologies: Agile (SCRUM), Jira
+
 ![Alejandra' Stats](https://github-readme-stats.vercel.app/api?username=arkanabytes&show_icons=true&theme=prussian)
 ![Alejandra' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact)
 
