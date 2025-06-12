@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E6EB8&center=true&vCenter=true&multiline=true&width=700&lines=Hi+there+👋+I'm+Alejandra!;Full+Stack+Java+Developer+%7C+Software+Engineer;Passionate+about+building+impactful+solutions" alt="Typing SVG" />
+</p>
+
 ### Hi there 👋 thank you for visiting my profile!
 
 My name is Alejandra,
@@ -58,10 +62,6 @@ Practical training in electrical circuits, digital electronics, and hardware fun
   <img src="https://github-readme-stats.vercel.app/api?username=Arkanabytes&show_icons=true&theme=prussian" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact&theme=prussian" alt="Top Langs"/>
 </p>
-
-![Alejandra' Stats](https://github-readme-stats.vercel.app/api?username=arkanabytes&show_icons=true&theme=prussian)
-![Alejandra' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact)
-
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Giróvaga.🍃🌍🍃🍀
