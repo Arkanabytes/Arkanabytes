@@ -2,13 +2,9 @@
 
 My name is Alejandra,
 ----
+Full Stack Developer with a solid background in Software Engineering and experience in high-impact companies such as Microsoft, Cognizant, and Avant Technology. Currently pursuing a Computer Engineering degree at INACAP and completing a Full Stack Java Developer program at Generation Chile. I have led and developed technology solutions in complex corporate environments, including electronic security systems and low-code/no-code platforms like Power Apps and Dynamics CRM 365.
 
-- 🔭 I’m currently working on Projects startup
-- 🌱 I’m currently learning Dart, Flutter and Phyton
-- 👯 I’m looking to collaborate on Mobile Apps.
-- 🤔 I’m looking for help with Haskell
-- 💬 Ask me about Java, c++ and Git.
-- 📫 How to reach me: 
+My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, RESTful APIs) with project leadership, effective communication, and teamwork in hybrid and remote environments. With advanced knowledge in agile methodologies (Scrum, Jira) and tools such as Git, Postman, Figma, and MySQL Workbench, I focus on building scalable, secure, and user-centered solutions.
 
 <p align='center'>
 
