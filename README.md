@@ -32,6 +32,10 @@ Focus on systems design, secure coding, data structures, and software architectu
 _2018 – 2019_  
 Project-based learning in low-level programming, C language, and UNIX system development.  
 - Piscine Program: 4-week full-time coding challenge with algorithms, lists, and UNIX environment.
+  
+🎓 **BSc in Computer Engineering – Universidad Nacional a Distancia**  
+_Sept2016 – Juny 2018_  
+Focus on systems design, secure coding, data structures, and software architecture.
 
 🎓 **Full Stack Web Development – freeCodeCamp**  
 _2021_  
