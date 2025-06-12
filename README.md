@@ -54,6 +54,10 @@ Practical training in electrical circuits, digital electronics, and hardware fun
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arkanabytes&show_icons=true&theme=prussian" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact&theme=prussian" alt="Top Langs"/>
+</p>
 
 ![Alejandra' Stats](https://github-readme-stats.vercel.app/api?username=arkanabytes&show_icons=true&theme=prussian)
 ![Alejandra' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact)
