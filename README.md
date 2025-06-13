@@ -11,6 +11,7 @@ Full Stack Developer with a solid background in Software Engineering and experie
 My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, RESTful APIs) with project leadership, effective communication, and teamwork in hybrid and remote environments. With advanced knowledge in agile methodologies (Scrum, Jira) and tools such as Git, Postman, Figma, and MySQL Workbench, I focus on building scalable, secure, and user-centered solutions.
 
 <p align='center'>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
 
 </p>
 
