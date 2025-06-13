@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk3ODgxMDMsIm5iZiI6MTc0OTc4NzgwMywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjEzVDA0MTAwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzZDg0ZThhMjE3ZDY0OTBhMzc0NDZmNTdlMTlmNjJmM2ZjNjllMTQ0ZjBmMjU2ZGQ2NTY1MjYyZDIwMDg3ODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lPdojEJ7Rvzt9BxdxggFxpNtJbzUUooywCvXaWefyDY
-Hi+there+👋+I'm+Alejandra!;Full+Stack+Java+Developer+%7C+Software+Engineer;Passionate+about+building+impactful+solutions" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Arkanabytes/Arkanabytes/main/.github/workflows/github-header-image.png" alt="Header" width="800">
 </p>
 
 ### Hi there 👋 thank you for visiting my profile!
@@ -11,15 +10,12 @@ Full Stack Developer with a solid background in Software Engineering and experie
 
 My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, RESTful APIs) with project leadership, effective communication, and teamwork in hybrid and remote environments. With advanced knowledge in agile methodologies (Scrum, Jira) and tools such as Git, Postman, Figma, and MySQL Workbench, I focus on building scalable, secure, and user-centered solutions.
 
+<p align='center'>
 <img 
   src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif" 
   alt="Coding" 
   width="400" 
   style="display: block; margin: 0 auto;">
-
-
-<p align='center'>
-
 </p>
 
 ----
@@ -79,12 +75,6 @@ Practical training in electrical circuits, digital electronics, and hardware fun
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arkanabytes&show_icons=true&theme=prussian" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact&theme=prussian" alt="Top Langs"/>
-</p>
-
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Giróvaga.🍃🌍🍃🍀
