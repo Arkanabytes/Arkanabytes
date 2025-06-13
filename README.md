@@ -22,31 +22,16 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 
 🎓 **Education**
 
-🧠 **Full Stack Java Developer – Generation Chile**  _May 2025 – Aug 2025_  
-Accelerated training in full stack development with a focus on practical, team-based software projects.  
-**Key technologies and tools:**
-
-- **Frontend**: JavaScript, Java, HTML5, CSS3, React, Bootstrap, Material UI, Node.js (NPM)  
-- **Backend**: Java, Spring Boot, JPA, REST APIs, SQL (MySQL), JUnit  
-- **Tools**: Git, GitHub, Postman, Figma, MySQL Workbench, Bash  
-- **Methodologies**: Agile (SCRUM), Jira  
-
-🎓 **BSc in Computer Engineering – Universidad Tecnológica de Chile, INACAP** _Mar 2025 – Dec 2028_  
-Focus on systems design, secure coding, data structures, and software architecture.
-
-🎓 **Computer Science – 42 Silicon Valley** _2018 – 2019_  
-Project-based learning in low-level programming, C language, and UNIX system development.  
-- Piscine Program: 4-week full-time coding challenge with algorithms, lists, and UNIX environment.
-- Program: 1-year full-time coding challenge with algorithms, lists, and UNIX environment.
-  
-🎓 **BSc in Computer Engineering – Universidad Nacional a Distancia** _Sept2016 – Juny 2018_  
-Focus on systems design, secure coding, data structures, and software architecture.
-
-🎓 **Full Stack Web Development – freeCodeCamp** _2021_  
-Built full-stack applications using React, Node.js, MongoDB, and Express.js.
-
-🎓 **Electronics & Digital Systems – Institut Industrial Benjamin Franklin** _2005 – 2006_  
-Practical training in electrical circuits, digital electronics, and hardware fundamentals.
+- 🎓 In progress **Computer Engineering** from **Inacap Chile.**
+- 🎓 Certified in **Computer Science – 42 Silicon Valley** 2018 – 2019
+- 🎓 Certified in **ICS | CNSS Certified Network Security Specialist**
+- 💻 Certified in **FullStack Java Developer** from **Generation.**
+- 🌐 Certified in **Python 3 Programming University of Michigan** through **Coursera.**
+- 🌐 Certified in **Python Data Structures University of Michigan** through **Coursera.**
+- 🌱 Always exploring and learning modern tools and technologies.
+- 👯 Open to collaborating on innovative and challenging projects.
+- 💬 Ask me about **C++, Python, and Java.**
+- ⚡ Fun fact: **Girovaga🍃🌍🍃🍀.**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -75,9 +60,6 @@ Practical training in electrical circuits, digital electronics, and hardware fun
 </div>
 
 ---
-
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Giróvaga.🍃🌍🍃🍀
 
 ![Snake animation](https://github.com/arkanabytes/arkanabytes/blob/output/github-contribution-grid-snake.svg)
 
