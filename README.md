@@ -6,7 +6,7 @@
 
 My name is Alejandra,
 ----
-Full Stack Developer with a solid background in Software Engineering and experience in high-impact companies such as Microsoft, Cognizant, and Avant Technology. Currently pursuing a Computer Engineering degree at INACAP and completing a Full Stack Java Developer program at Generation Chile. I have led and developed technology solutions in complex corporate environments, including electronic security systems and low-code/no-code platforms like Power Apps and Dynamics CRM 365.
+Full Stack Developer with a solid background in Software Engineering and experience in high-impact companies such as Microsoft, Cognizant, and Avant Technology. Currently pursuing a Computer Engineering degree at Technological University of Chile and completing a Full Stack Java Developer program at Generation Chile. I have led and developed technology solutions in complex corporate environments, including electronic security systems and low-code/no-code platforms like Power Apps and Dynamics CRM 365.
 
 My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, RESTful APIs) with project leadership, effective communication, and teamwork in hybrid and remote environments. With advanced knowledge in agile methodologies (Scrum, Jira) and tools such as Git, Postman, Figma, and MySQL Workbench, I focus on building scalable, secure, and user-centered solutions.
 
@@ -30,7 +30,7 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 - 🌐 Certified in **Python Data Structures University of Michigan** through **Coursera.**
 - 🌱 Always exploring and learning modern tools and technologies.
 - 👯 Open to collaborating on innovative and challenging projects.
-- 💬 Ask me about **C++, Python, and Java.**
+- 💬 Ask me about **C++, Python, and C.**
 - ⚡ Fun fact: **Girovaga🍃🌍🍃🍀.**
 
 <p align="center">
