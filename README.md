@@ -22,10 +22,10 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 
 🎓 **Education**
 
-- 🎓 In progress **Computer Engineering** from **Inacap Chile.**
+- 🎓 In progress **Computer Engineering** from **Universidad Tecnologica de Chile.**
+- 💻 Certified in **FullStack Java Developer** from **Generation.**
 - 🎓 Certified in **Computer Science – 42 Silicon Valley** 2018 – 2019
 - 🎓 Certified in **ICS | CNSS Certified Network Security Specialist**
-- 💻 Certified in **FullStack Java Developer** from **Generation.**
 - 🌐 Certified in **Python 3 Programming University of Michigan** through **Coursera.**
 - 🌐 Certified in **Python Data Structures University of Michigan** through **Coursera.**
 - 🌱 Always exploring and learning modern tools and technologies.
