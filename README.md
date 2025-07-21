@@ -25,9 +25,11 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 - 🎓 In progress **Computer Engineering** from **Universidad Tecnologica de Chile.**
 - 💻 Certified in **FullStack Java Developer** from **Generation.**
 - 🎓 Certified in **Computer Science – 42 Silicon Valley** 2018 – 2019
-- 🎓 Certified in **ICS | CNSS Certified Network Security Specialist**
-- 🌐 Certified in **Python 3 Programming University of Michigan** through **Coursera.**
-- 🌐 Certified in **Python Data Structures University of Michigan** through **Coursera.**
+- 🎓 Certified in [**ICS | CNSS Certified Network Security Specialist**](https://www.linkedin.com/in/consuelo-alejandra-pinto-toro/details/certifications/)
+- 🌐 Certified in [**Python 3 Programming University of Michigan** by **Coursera.**](https://coursera.org/share/452246beae7c24e5edbc59d1c538a066)
+- 🌐 Certified in [**Python Data Structures University of Michigan** by **Coursera.**](https://www.coursera.org/account/accomplishments/verify/KKATW3L3WKRN)
+- 🌐 Certified in [**Data Science Math Skills Duke University** by **Coursera.**](https://coursera.org/share/4c8aab9d45c040156b6b9911233c4f50)
+- 🌐 Certified in [**Introduction to Cybersecurity** by **Cisco.**](https://www.credly.com/earner/earned/badge/efc11050-4c0f-4409-9b03-a621a87ec78d)
 - 🌱 Always exploring and learning modern tools and technologies.
 - 👯 Open to collaborating on innovative and challenging projects.
 - 💬 Ask me about **C++, Python, and C.**
