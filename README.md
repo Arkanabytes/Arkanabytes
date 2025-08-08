@@ -61,4 +61,6 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 
 ![Snake animation](https://github.com/arkanabytes/arkanabytes/blob/output/github-contribution-grid-snake.svg)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkanabytes.tu-repo)
+
 ![Visitor Count](https://profile-counter.glitch.me/{Arkanabytes}/count.svg)
