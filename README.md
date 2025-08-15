@@ -64,3 +64,20 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkanabytes.tu-repo)
 
 ![Visitor Count](https://profile-counter.glitch.me/{Arkanabytes}/count.svg)
+
+
+
+class Arkanabytes:
+    def __init__(self):
+        self.nombre = "Arkanabytes"
+        self.rol = "Desarrollador Full Stack"
+        self.lenguajes = ["Python", "JavaScript", "Java", "SQL"]
+        self.tecnologias = {
+            "backend": ["Django", "Flask", "Node.js", "FastAPI"],
+            "frontend": ["React", "Vue.js", "HTML5", "CSS3"],
+            "database": ["PostgreSQL", "MySQL", "MongoDB"],
+            "tools": ["Git", "Docker", "AWS", "Linux"]
+        }
+        
+    def decir_hola(self):
+        print("¡Gracias por visitar mi perfil!")
