@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arkanabytes/Arkanabytes/main/.github/workflows/github-header-image.png" alt="Header" width="800">
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARKANABYTES&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 
 ### Hi there 👋 thank you for visiting my profile!
 
@@ -9,6 +8,20 @@ My name is Alejandra,
 Full Stack Developer with a solid background in Software Engineering and experience in high-impact companies such as Microsoft, Cognizant, and Avant Technology. Currently pursuing a Computer Engineering degree at Technological University of Chile and completing a Full Stack Java Developer program at Generation Chile. I have led and developed technology solutions in complex corporate environments, including electronic security systems and low-code/no-code platforms like Power Apps and Dynamics CRM 365.
 
 My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, RESTful APIs) with project leadership, effective communication, and teamwork in hybrid and remote environments. With advanced knowledge in agile methodologies (Scrum, Jira) and tools such as Git, Postman, Figma, and MySQL Workbench, I focus on building scalable, secure, and user-centered solutions.
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=9333EA&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+universe!+%F0%9F%8C%8C%E2%9C%A8;Full+Stack+Developer+%7C+Mobile+Expert+%F0%9F%93%B1;Creating+magic+with+code+%F0%9F%AA%84%F0%9F%92%BB;Gir%C3%B3vaga+exploring+the+world+%F0%9F%8D%83%F0%9F%8C%8D%F0%9F%8D%80" alt="Typing SVG" />
+
+</div>
+
+
+<br>
+
+<div align="center">
+  <img width="500" height="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF"/>
+
+
+
 
 <p align='center'>
 <img 
@@ -57,27 +70,39 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arkanabytes&custom_title=Contribution%20Graph&bg_color=0D1117&color=9333EA&line=A855F7&point=FFFFFF&area_color=9333EA&title_color=FFFFFF&area=true&border_radius=10" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arkanabytes&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+### 💭 Daily Inspiration
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=%22Code+is+poetry+written+for+machines+to+understand%22;%22Every+bug+is+a+lesson+in+disguise%22+%F0%9F%90%9B%E2%9C%A8;%22The+best+code+is+written+with+passion+and+purpose%22;%22Innovation+happens+when+curiosity+meets+determination%22" alt="Inspiration"/>
+
+<br>
+
 ---
 
 ![Snake animation](https://github.com/arkanabytes/arkanabytes/blob/output/github-contribution-grid-snake.svg)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkanabytes.tu-repo)
 
-![Visitor Count](https://profile-counter.glitch.me/{Arkanabytes}/count.svg)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
+---
 
-class Arkanabytes:
-    def __init__(self):
-        self.nombre = "Arkanabytes"
-        self.rol = "Desarrollador Full Stack"
-        self.lenguajes = ["Python", "JavaScript", "Java", "SQL"]
-        self.tecnologias = {
-            "backend": ["Django", "Flask", "Node.js", "FastAPI"],
-            "frontend": ["React", "Vue.js", "HTML5", "CSS3"],
-            "database": ["PostgreSQL", "MySQL", "MongoDB"],
-            "tools": ["Git", "Docker", "AWS", "Linux"]
-        }
-        
-    def decir_hola(self):
-        print("¡Gracias por visitar mi perfil!")
+<div align="center">
+  <h3>✨ "The journey of a thousand apps begins with a single commit" ✨</h3>
+</div>
