@@ -1,6 +1,6 @@
-class Titulo:
+class Arkanabytes:
     def __init__(self):
-        self.nombre = "Titulo"
+        self.nombre = "Arkanabytes"
         self.rol = "Desarrollador Full Stack"
         self.lenguajes = ["Python", "JavaScript", "Java", "SQL"]
         self.tecnologias = {
