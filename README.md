@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARKANABYTES&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:4B0082&height=250&section=header&text=Arkanabytes&desc=Desarrolladora%20Fullstack%20|%20Software%20Engineering&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=75&fontAlignY=40&animation=twinkling" width="100%"/>
 
 ### Hi there 👋 thank you for visiting my profile!
 
@@ -99,9 +98,10 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkanabytes.tu-repo)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:4B0082&height=200&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+
 
 <div align="center">
   <h3>✨ "The journey of a thousand apps begins with a single commit" ✨</h3>
