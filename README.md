@@ -102,7 +102,10 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:4B0082&height=200&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <h3>✨ "The journey of a thousand apps begins with a single commit" ✨</h3>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
