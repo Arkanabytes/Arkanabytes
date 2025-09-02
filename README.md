@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:4B0082&height=250&section=header&text=Arkanabytes&desc=Desarrolladora%20Fullstack%20|%20Software%20Engineering&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=75&fontAlignY=40&animation=twinkling" width="100%"/>
 
 ### Hi there 👋 thank you for visiting my profile!
-
 My name is Alejandra,
 ----
 Full Stack Developer with a solid background in Software Engineering and experience in high-impact companies such as Microsoft, Cognizant, and Avant Technology. Currently pursuing a Computer Engineering degree at Technological University of Chile and completing a Full Stack Java Developer program at Generation Chile. I have led and developed technology solutions in complex corporate environments, including electronic security systems and low-code/no-code platforms like Power Apps and Dynamics CRM 365.
