@@ -8,7 +8,7 @@ Full Stack Developer with a solid background in Software Engineering and experie
 My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, RESTful APIs) with project leadership, effective communication, and teamwork in hybrid and remote environments. With advanced knowledge in agile methodologies (Scrum, Jira) and tools such as Git, Postman, Figma, and MySQL Workbench, I focus on building scalable, secure, and user-centered solutions.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=9333EA&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+universe!+%F0%9F%8C%8C%E2%9C%A8;Full+Stack+Developer+%7C+Mobile+Expert+%F0%9F%93%B1;Creating+magic+with+code+%F0%9F%AA%84%F0%9F%92%BB;Gir%C3%B3vaga+exploring+the+world+%F0%9F%8D%83%F0%9F%8C%8D%F0%9F%8D%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=9333EA&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+universe!+%F0%9F%8C%8C%E2%9C%A8;Full+Stack+Developer+%7C+Software+Engineer+%F0%9F%93%B1;Creating+magic+with+code+%F0%9F%AA%84%F0%9F%92%BB;Gir%C3%B3vaga+exploring+the+world+%F0%9F%8D%83%F0%9F%8C%8D%F0%9F%8D%80" alt="Typing SVG" />
 
 </div>
 
