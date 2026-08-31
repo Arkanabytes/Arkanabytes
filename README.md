@@ -33,7 +33,7 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 
 🎓 **Education**
 
-- 🎓 In progress **Computer Engineering** from **Universidad Tecnologica de Chile.**
+- 🎓 Certified in **Computer Engineering** from **University National of distance**
 - 💻 Certified in **FullStack Java Developer** from **Generation.**
 - 🎓 Certified in **Computer Science – 42 Silicon Valley** 2018 – 2019
 - 🎓 Certified in [**ICS | CNSS Certified Network Security Specialist**](https://www.linkedin.com/in/consuelo-alejandra-pinto-toro/details/certifications/)
