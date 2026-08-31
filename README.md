@@ -149,7 +149,7 @@ He liderado y desarrollado soluciones tecnológicas en entornos corporativos com
 ### Hi there 👋 thank you for visiting my profile!
 My name is Alejandra,
 ----
-Full Stack Developer with a solid background in Software Engineering and experience in high-impact companies such as Microsoft and Avant Technology. Currently pursuing a Computer Engineering degree at Technological University of Chile and completing a Full Stack Java Developer program at Generation Chile. I have led and developed technology solutions in complex corporate environments, including electronic security systems and low-code/no-code platforms like Power Apps and Dynamics CRM 365.
+Full Stack Developer with a solid background in Software Engineering and experience in high-impact companies such as Microsoft and Avant Technology. Computer Engineering degree and completing a Full Stack Java Developer program at Generation Chile. I have led and developed technology solutions in complex corporate environments, including electronic security systems and low-code/no-code platforms like Power Apps and Dynamics CRM 365.
 
 My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, RESTful APIs) with project leadership, effective communication, and teamwork in hybrid and remote environments. With advanced knowledge in agile methodologies (Scrum, Jira) and tools such as Git, Postman, Figma, and MySQL Workbench, I focus on building scalable, secure, and user-centered solutions.
 
@@ -192,6 +192,16 @@ My profile combines strong technical skills (Java, Spring Boot, React, SQL, C, R
 - 💬 Ask me about **C++, Python, and C.**
 - ⚡ Fun fact: **Girovaga🍃🌍🍃🍀.**
 
+---
+
+### 📌 Proyectos destacados
+
+- **[Generation](https://github.com/Arkanabytes/Generation)** — Proyecto del programa Full Stack Java Developer de Generation Chile.
+- **[CPP](https://github.com/Arkanabytes/CPP)** — Ejercicios y proyectos de C++: condicionales, estructuras de datos, iteradores, colas y pilas.
+- **[42.-Libft](https://github.com/Arkanabytes/42.-Libft)** — Reimplementación de funciones estándar de C, proyecto base de 42.
+- **[Haskell](https://github.com/Arkanabytes/Haskell)** — Ejercicios de programación funcional en Haskell.
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
