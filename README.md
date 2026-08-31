@@ -1,8 +1,3 @@
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:C71585,100:FF69B4&height=120&section=footer" />
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:4B0082&height=250&section=header&text=Arkanabytes&desc=Desarrolladora%20Fullstack%20|%20Software%20Engineering&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=75&fontAlignY=40&animation=twinkling" width="100%"/>
 
 ### Hi there 👋 thank you for visiting my profile!
