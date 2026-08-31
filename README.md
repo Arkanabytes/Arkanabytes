@@ -1,3 +1,132 @@
+<h1 align="center">¡Hola, soy Alejandra! 👋</h1>
+<h3 align="center">Full Stack Developer | Java · Spring Boot · React</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/consuelo-alejandra-pinto-toro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧭 Sobre mí
+
+Desarrolladora Full Stack con experiencia en compañías de alto impacto como **Microsoft** y **Avant Technology**. Actualmente curso Ingeniería en Informática en la **Universidad Tecnológica de Chile** y el programa **Full Stack Java Developer** de **Generation Chile**.
+
+He liderado y desarrollado soluciones tecnológicas en entornos corporativos complejos, incluyendo sistemas de seguridad electrónica y plataformas low-code/no-code como **Power Apps** y **Dynamics CRM 365**.
+
+- 🎓 Ex estudiante de **42 Silicon Valley** (Computer Science, 2018–2019)
+- 🌱 Siempre aprendiendo nuevas herramientas y tecnologías
+- 👯 Abierta a colaborar en proyectos innovadores y desafiantes
+- 💬 Pregúntame sobre **C, C++, Python, Java**
+- 🌍 Fun fact: *Girovaga* 🍃
+
+---
+
+### 🎓 Educación y certificaciones
+
+| Certificación | Institución |
+|---|---|
+| Ingeniería en Informática (en curso) | Universidad Tecnológica de Chile |
+| Full Stack Java Developer | Generation Chile |
+| Computer Science | 42 Silicon Valley |
+| ICS \| CNSS Certified Network Security Specialist | — |
+| Python 3 Programming | University of Michigan (Coursera) |
+| Python Data Structures | University of Michigan (Coursera) |
+| Data Science Math Skills | Duke University (Coursera) |
+| Introduction to Cybersecurity | Cisco |
+
+---
+
+### 🛠️ Tech Stack
+
+**Lenguajes**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks y tecnologías**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Bases de datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Herramientas y plataformas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Metodologías**
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arkanabytes&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arkanabytes&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arkanabytes&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</p>
+
+---
+
+### 📌 Proyectos destacados
+
+- **[Generation](https://github.com/Arkanabytes/Generation)** — Proyecto del programa Full Stack Java Developer de Generation Chile.
+- **[CPP](https://github.com/Arkanabytes/CPP)** — Ejercicios y proyectos de C++: condicionales, estructuras de datos, iteradores, colas y pilas.
+- **[42.-Libft](https://github.com/Arkanabytes/42.-Libft)** — Reimplementación de funciones estándar de C, proyecto base de 42.
+- **[Haskell](https://github.com/Arkanabytes/Haskell)** — Ejercicios de programación funcional en Haskell.
+
+---
+
+<p align="center">
+  <img src="https://github.com/arkanabytes/arkanabytes/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arkanabytes.tu-repo" />
+</p>
+
+<p align="center"><i>"El viaje de mil apps empieza con un solo commit"</i> ✨</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:4B0082&height=250&section=header&text=Arkanabytes&desc=Desarrolladora%20Fullstack%20|%20Software%20Engineering&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=75&fontAlignY=40&animation=twinkling" width="100%"/>
 
 ### Hi there 👋 thank you for visiting my profile!
