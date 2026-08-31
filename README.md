@@ -1,5 +1,8 @@
-<h1 align="center">¡Hola, soy Alejandra! 👋</h1>
-<h3 align="center">Full Stack Developer | Java · Spring Boot · React</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:4B0082&height=250&section=header&text=Arkanabytes&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=C71585&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Alejandra+%F0%9F%91%8B;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Ex+42+Silicon+Valley;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%B1" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/consuelo-alejandra-pinto-toro/">
@@ -7,9 +10,17 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arkanabytes&color=c71585&style=for-the-badge&label=Visitas+al+perfil" />
+</p>
+
 ---
 
 ### 🧭 Sobre mí
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 Desarrolladora Full Stack con experiencia en compañías de alto impacto como **Microsoft** y **Avant Technology**. Actualmente curso Ingeniería en Informática en la **Universidad Tecnológica de Chile** y el programa **Full Stack Java Developer** de **Generation Chile**.
 
@@ -20,6 +31,15 @@ He liderado y desarrollado soluciones tecnológicas en entornos corporativos com
 - 👯 Abierta a colaborar en proyectos innovadores y desafiantes
 - 💬 Pregúntame sobre **C, C++, Python, Java**
 - 🌍 Fun fact: *Girovaga* 🍃
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,6 +59,10 @@ He liderado y desarrollado soluciones tecnológicas en entornos corporativos com
 ---
 
 ### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,cpp,c,js,mysql,postgres,mongodb,git,github,figma,postman&theme=dark" />
+</p>
 
 **Lenguajes**
 
@@ -82,12 +106,16 @@ He liderado y desarrollado soluciones tecnológicas en entornos corporativos com
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arkanabytes&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arkanabytes&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arkanabytes&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arkanabytes&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanabytes&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arkanabytes&theme=radical&hide_border=true&bg_color=0D1117&color=C71585&line=A855F7&point=FFFFFF" />
 </p>
 
 <p align="center">
@@ -106,25 +134,14 @@ He liderado y desarrollado soluciones tecnológicas en entornos corporativos com
 ---
 
 <p align="center">
-  <img src="https://github.com/arkanabytes/arkanabytes/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/arkanabytes/arkanabytes/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arkanabytes.tu-repo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=El+viaje+de+mil+apps+empieza+con+un+solo+commit+%E2%9C%A8;Gracias+por+visitar+mi+perfil+%F0%9F%98%8A" />
 </p>
 
-<p align="center"><i>"El viaje de mil apps empieza con un solo commit"</i> ✨</p>
-
-
-
-
-
-
-
-
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:C71585,100:FF69B4&height=120&section=footer" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:4B0082&height=250&section=header&text=Arkanabytes&desc=Desarrolladora%20Fullstack%20|%20Software%20Engineering&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=75&fontAlignY=40&animation=twinkling" width="100%"/>
